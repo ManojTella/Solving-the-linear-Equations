@@ -22,6 +22,9 @@ sol=np.linalg.solve(A,B)
 print(sol)
 ```
 ## Output:
+```
+[3.1.]
+```
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
